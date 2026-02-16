@@ -9,6 +9,11 @@ This project demonstrates Blueprint architecture, JSON-based persistence, and Ji
 
 ---
 
+📸 Preview
+![App Screenshot](https://github.com/hassanimohammadreza/url-shortener/blob/3c5255b3404853f1785629346a01745fc2fa5df4/static/url-shortener.png?raw=true)
+
+---
+
 ## 🏗 Project Architecture
 
 ```text
@@ -52,7 +57,7 @@ This makes the application:
 - Production-ready structure
 
 
-###🔹 JSON-Based Persistence
+### 🔹 JSON-Based Persistence
 
 Tasks are stored in:
 ```pgsql
@@ -75,7 +80,7 @@ Helper functions:
 
 This keeps the project lightweight and easy to migrate later to a database like SQLite or PostgreSQL.
 
-###🔹 Template Inheritance (Jinja2)
+### 🔹 Template Inheritance (Jinja2)
 
 The UI uses template inheritance:
 ```html
