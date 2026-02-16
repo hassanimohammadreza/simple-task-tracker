@@ -11,7 +11,7 @@ This project demonstrates Blueprint architecture, JSON-based persistence, and Ji
 
 ## 📸 Preview
 
-![App Screenshot](https://github.com/hassanimohammadreza/simple-task-tracker/blob/main/static/task-tracker.png?raw=true)
+![App Screenshot](https://github.com/hassanimohammadreza/simple-task-tracker/blob/main/static/task-tracker.png)
 
 ---
 
